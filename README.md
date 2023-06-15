@@ -7,6 +7,3 @@ For the ml model, it can be accessed normally and same goes for the application.
 1.npm install
  
 2.npm run dev
-=======
-﻿# AgroAI This is the final product of AgroAI, consisting of the model, application, and the cloud system.
->>>>>>> Stashed changes
