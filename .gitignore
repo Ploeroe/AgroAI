@@ -1,0 +1,17 @@
+# Android Studio
+
+*.iml
+.gradle
+/AgroAI-app/local.properties
+/AgroAI-app/.idea/caches
+/AgroAI-app/.idea/libraries
+/AgroAI-app/.idea/modules.xml
+/AgroAI-app/.idea/workspace.xml
+/AgroAI-app/.idea/navEditor.xml
+/AgroAI-app/.idea/assetWizardSettings.xml
+.DS_Store
+/AgroAI-app/build
+/AgroAI-app/captures
+.externalNativeBuild
+.cxx
+local.properties
