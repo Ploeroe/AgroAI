@@ -7,6 +7,8 @@ This is the final product of AgroAI, consisting of the model, application, and t
  
 2.npm run dev
 
+live server/website can be accessed here : https://api-5suyze5bzq-uc.a.run.app 
+
 ## For agroai-app :
 
 Just wait for the app to build and run, if there is an error in compatibility, make sure that your version is the same with ours
